@@ -1,5 +1,5 @@
 {
-  "name": "webverse",
+  "name": "@neychang/webverse",
   "version": "0.0.0",
   "packageManager": "pnpm@6.32.3",
   "description": "",
